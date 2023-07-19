@@ -1,0 +1,14 @@
+C:\Programacion 4\TextEditor2\bin\Debug\TextEditor2.exe.config
+C:\Programacion 4\TextEditor2\bin\Debug\TextEditor2.exe
+C:\Programacion 4\TextEditor2\bin\Debug\TextEditor2.pdb
+C:\Programacion 4\TextEditor2\bin\Debug\MaterialSkin.dll
+C:\Programacion 4\TextEditor2\obj\Debug\TextEditor2.csproj.AssemblyReference.cache
+C:\Programacion 4\TextEditor2\obj\Debug\TextEditor2.csproj.SuggestedBindingRedirects.cache
+C:\Programacion 4\TextEditor2\obj\Debug\TextEditor2.Properties.Resources.resources
+C:\Programacion 4\TextEditor2\obj\Debug\TextEditor2.TextEditor.resources
+C:\Programacion 4\TextEditor2\obj\Debug\TextEditor2.csproj.GenerateResource.cache
+C:\Programacion 4\TextEditor2\obj\Debug\TextEditor2.csproj.CoreCompileInputs.cache
+C:\Programacion 4\TextEditor2\obj\Debug\TextEditor2.csproj.CopyComplete
+C:\Programacion 4\TextEditor2\obj\Debug\TextEditor2.exe
+C:\Programacion 4\TextEditor2\obj\Debug\TextEditor2.pdb
+C:\Programacion 4\TextEditor2\obj\Debug\EditorDeTexto.FindDialog.resources
